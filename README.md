@@ -29,7 +29,7 @@
 --------------------
 | 章节 | PDF下载 | 版本 |
 | ------------ | ------------ | ------------ | 
-| 第一章 导论 | [第一章](https://github.com/Junkai-Lu/ai_and_games_book_chinese/Chapter1/Chapter1.pdf) | 草稿第一版 | 
+| 第一章 导论 | [第一章](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/Chapter1/Chapter1.pdf) | 草稿第一版 | 
 
 致谢
 --------------------
