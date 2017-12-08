@@ -23,13 +23,15 @@
 
 由于本书的翻译仍然在进行中。因此暂时只提供逐章的翻译下载。目前仍为**草稿第一版**。本书当前基于10月6日放出的Final Draft进行翻译工作。
 
-读者可以以中文版为主，英文版为辅进行阅读，但我们仍建议研究者阅读[原版](http://http://gameaibook.org/)。
+读者可以以中文版为主，英文版为辅进行阅读，但我们仍建议研究者阅读[原版](http://gameaibook.org/)。
 
 下载链接
 --------------------
 | 章节 | PDF下载 | 版本 |
 | ------------ | ------------ | ------------ | 
 | 第一章 导论 | [第一章](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/Chapter1/Chapter1.pdf) | 草稿第一版 | 
+| 第二章 AI方法 | [第二章](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/Chapter2/Chapter2.pdf) | 草稿第一版 | 
+| 中英文术语对照表 | [中英文术语对照表](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/中英文术语对照表.pdf) | 草稿第一版 | 
 
 致谢
 --------------------
