@@ -31,7 +31,7 @@
 | ------------ | ------------ | ------------ | 
 | 第一章 导论 | [第一章](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/Chapter1/Chapter1.pdf) | 草稿第一版 | 
 | 第二章 AI方法 | [第二章](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/Chapter2/Chapter2.pdf) | 草稿第一版 | 
-| 中英文术语对照表 | [中英文术语对照表](https://github.com/Junkai-Lu/ai_and_games_book_chinese/tree/master/中英文术语对照表.pdf) | 草稿第一版 | 
+| 中英文术语对照表 | [中英文术语对照表](https://github.com/Junkai-Lu/ai_and_games_book_chinese/blob/master/%E4%B8%AD%E8%8B%B1%E6%96%87%E6%9C%AF%E8%AF%AD%E5%AF%B9%E7%85%A7.pdf) | 草稿第一版 | 
 
 致谢
 --------------------
